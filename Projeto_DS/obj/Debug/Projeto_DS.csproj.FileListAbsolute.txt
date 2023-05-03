@@ -3,3 +3,13 @@ C:\Users\marqu\source\repos\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.FrmLogin.
 C:\Users\marqu\source\repos\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.Properties.Resources.resources
 C:\Users\marqu\source\repos\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.GenerateResource.cache
 C:\Users\marqu\source\repos\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.AssemblyReference.cache
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.FrmLogin.resources
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.Properties.Resources.resources
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.GenerateResource.cache
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe.config
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.pdb
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
+C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb

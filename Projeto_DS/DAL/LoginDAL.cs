@@ -10,7 +10,7 @@ namespace Projeto_DS.DAL
     // Verificar o login no banco de dados
     class LoginDAL
     {
-        public bool GetLoginDal(LoginDTO DadosLogin)
+        public bool GetLoginDAL(LoginDTO dadosLogin)
         {
             return true;
         }

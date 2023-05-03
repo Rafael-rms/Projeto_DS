@@ -22,13 +22,13 @@ namespace Projeto_DS
 
         private void label1_Click(object sender, EventArgs e)
         {
-            LoginDTO DadosLogin = new LoginDTO
+            LoginDTO dadosLogin = new LoginDTO
             {
                 Nome = txtNome.Text,
                 Senha = txtSenha.Text,
             };
             LoginBLL loginBLL = new LoginBLL();
-            LoginBLL.GetLoginBLL(DadosLogin);
+            loginBLL.GetLoginBLL(dadosLogin);
         }
 
         private void btnLogin_Click(object sender, EventArgs e)

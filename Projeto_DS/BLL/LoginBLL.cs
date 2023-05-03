@@ -11,10 +11,10 @@ namespace Projeto_DS.BLL
     class LoginBLL
     {
         // Método de controle
-        public bool GetLoginBLL(LoginDTO DadosLogin)
+        public bool GetLoginBLL(LoginDTO dadosLogin)
         {
             // Validação
-            if(DadosLogin.Nome == null)
+            if(dadosLogin.Nome == null)
             {
                 return false;
             }
@@ -22,7 +22,7 @@ namespace Projeto_DS.BLL
             LoginDAL login = new LoginDAL();
 
             // Chamar o LoginDAL
-            login.GetLoginDal(DadosLogin);
+            login.GetLoginDAL(dadosLogin);
 
             return true;
         }
