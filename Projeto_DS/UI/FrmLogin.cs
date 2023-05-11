@@ -22,18 +22,34 @@ namespace Projeto_DS
 
         private void label1_Click(object sender, EventArgs e)
         {
-            LoginDTO dadosLogin = new LoginDTO
-            {
-                Nome = txtNome.Text,
-                Senha = txtSenha.Text,
-            };
-            LoginBLL loginBLL = new LoginBLL();
-            loginBLL.GetLoginBLL(dadosLogin);
+ 
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            LoginDTO loginDTO = new LoginDTO
+            {
+                Email = txtEmail.Text,
+                Senha = txtSenha.Text
+            };
+            //Realizar a chamada do método de pesquisa do controle
+            LoginBLL login = new LoginBLL();
+            bool retorno = login.GetLoginBLL(loginDTO);
+            //Se a variável de retorno for true exibe a mensagem de Login Ok ao usuario
+            if (retorno)
+            {
+                //Criar um objeto que representa o formulário de menu
+                FrmLogin formLogin = new FrmLogin();
 
+                //Carregar o formulário de menu
+                formLogin.Show();
+                this.Hide();
+            }
+            else
+            {
+                //caso não seja possivel realizar o login exibirá a seguinte menssagem
+                MessageBox.Show("Não foi possivel realizar o login, tente novamente");
+            }
         }
 
         private void FrmLogin_Load(object sender, EventArgs e)

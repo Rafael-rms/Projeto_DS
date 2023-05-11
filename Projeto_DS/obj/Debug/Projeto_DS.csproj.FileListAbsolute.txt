@@ -13,3 +13,43 @@ C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.e
 C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.pdb
 C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
 C:\Users\marqu\Desktop\Atividade DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe.config
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.exe
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Projeto_DS.pdb
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.AssemblyReference.cache
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.FrmLogin.resources
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.Properties.Resources.resources
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.GenerateResource.cache
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.exe
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.pdb
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Google.Protobuf.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\MySql.Data.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\MySqlConnector.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Buffers.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Memory.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Google.Protobuf.pdb
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\Google.Protobuf.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\MySql.Data.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\MySqlConnector.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Buffers.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Memory.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marqu\Desktop\Projeto_DS\Projeto_DS\Projeto_DS\obj\Debug\Projeto_DS.csproj.CopyComplete

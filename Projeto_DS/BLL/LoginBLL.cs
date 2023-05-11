@@ -11,20 +11,19 @@ namespace Projeto_DS.BLL
     class LoginBLL
     {
         // Método de controle
-        public bool GetLoginBLL(LoginDTO dadosLogin)
+        public bool GetLoginBLL(LoginDTO loginDTO)
         {
-            // Validação
-            if(dadosLogin.Nome == null)
-            {
-                return false;
-            }
-            //Criar um objeto DAL
+            //validar usuario
+            // Realizar a chamada do método de pesquisa de login na chamda DAL
             LoginDAL login = new LoginDAL();
+            bool retorno = login.GetLoginDAL(loginDTO);
+            // Se o retorno do método de pesquisa da chamada DAL for verdadeiro retorna true
+            if(retorno)
+            {
+                return true;
+            }
 
-            // Chamar o LoginDAL
-            login.GetLoginDAL(dadosLogin);
-
-            return true;
+            return false;
         }
     }
 }

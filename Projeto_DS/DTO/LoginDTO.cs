@@ -8,7 +8,7 @@ namespace Projeto_DS.DTO
 {
     class LoginDTO
     {
-        public String Nome { get; set; }
+        public String Email { get; set; }
         public String Senha { get; set; }
     }
 }
